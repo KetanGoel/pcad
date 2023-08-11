@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Raleway", serif;
+}
+
+.banner-container {
+    position: relative;
+    width: 100%;
+}
+
+.container.quality {
+    max-width: 960px;
+    margin: 0 auto; /* Center the content horizontally */
+}
+
+/******* ABOUT US SECTION *******/
+
+#quality-intro {
+    padding: 50px 0px;
+}
+
+.quality-intro .content {
+  background-color: #f6f9ff;
+  padding: 40px;
+}
+
+.quality-intro h3 {
+  font-size: 14px;
+  font-weight: 700;
+  color: #483285;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.quality-intro p {
+  margin: 15px 0 30px 0;
+  line-height: 24px;
+  text-align: justify;
+  font-size: 24px;
+}
+
+.quality-intro img {
+    padding: 0px 40px;
+}
+/******* ABOUT US SECTION END *******/
+  
+.services .section-header h3 {
+  text-align: left;
+  font-weight: 600;
+  padding: 10px 0px;
+}
+
+.services .section-header p {
+  font-weight: 300;
+  text-align: left;
+  color: black;
+  font-size: 24px;
+}
+
+.diagram img {
+  padding-top: 10px;
+  padding-left: 20px;
+}
+
